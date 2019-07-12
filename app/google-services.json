@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "909526530525",
+    "firebase_url": "https://streamflix-cc4a8.firebaseio.com",
+    "project_id": "streamflix-cc4a8",
+    "storage_bucket": "streamflix-cc4a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909526530525:android:6073448913252dcd",
+        "android_client_info": {
+          "package_name": "ca.angelinmuwindsor.streamflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909526530525-2q36mg82gs0bceqclk9v9jef223k4pl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.angelinmuwindsor.streamflix",
+            "certificate_hash": "b4fb70b6c54a1b01b8412c9b9a7ca472165e0d50"
+          }
+        },
+        {
+          "client_id": "909526530525-o0bupidqbjmiiavt1eeeuba7ira22ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28jcU9X9hbuP4WwnLavnuz7SIl-yGDZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909526530525-o0bupidqbjmiiavt1eeeuba7ira22ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
